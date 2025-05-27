@@ -1,0 +1,27 @@
+{
+	"name": "soampliapps/pdo",
+	"type": "library",
+	"description": "Extended PDO and PDOStatement classes for development stats",
+	"keywords": [
+		"pdo",
+		"database",
+		"development",
+		"stats"
+	],
+	"require": {
+		"php": ">=8.3"
+	},
+	"authors": [
+		{
+			"name": "IDS",
+			"email": "waseemids369@gmail.com",
+			"role": "Developer"
+		}
+	],
+	"license": "MIT",
+	"autoload": {
+		"psr-4": {
+			"SoampliApps\\Pdo\\": "src/"
+		}
+	}
+}

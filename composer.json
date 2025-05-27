@@ -9,7 +9,7 @@
 		"stats"
 	],
 	"require": {
-		"php": ">=8.3"
+		"php": ">=8.3.0"
 	},
 	"authors": [
 		{
